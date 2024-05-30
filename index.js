@@ -92,7 +92,7 @@ function init() {
     inquirer.prompt(questions)
         .then((answers) => {
             const readmeContent = generateREADME(answers);
-            fs.writeFile('README.md', readmeContent, (err) =>
+            fs.writeFile('README_1.md', readmeContent, (err) =>
                 err ? console.error(err) : console.log('Successfully created README.md!')
             );
         });
