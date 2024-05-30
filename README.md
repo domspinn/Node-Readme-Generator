@@ -1,5 +1,5 @@
 
-# readme
+# x
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -30,5 +30,5 @@ x
 x
 
 ## Questions
-For any questions, please contact me at [domospinn21@gmail.com](mailto:domospinn21@gmail.com).
-You can also find me on GitHub: [domspinn](https://github.com/domspinn).
+For any questions, please contact me at [x](mailto:x).
+You can also find me on GitHub: [x](https://github.com/x).
