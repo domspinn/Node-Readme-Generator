@@ -1,5 +1,4 @@
-## README Generator
-
+# README Generator
 
 ## Text Tutorial
 This github repository is a functional readme generator using node js. Below includes a video walkthrough on how to use it. Using the terminal, type "cd [directory located in]". This is to ensure you are on the correct directory. Then, using node, type "node index.js". This accesses the javascript file using node. It will now ask you a series of questions to create a readme with the content that you want. After you fill all of the questions, it will automatically create the readme file and place it into the folder. The readme file includes a table of contents, your liscense icon, project descriptions and a questions section. 
